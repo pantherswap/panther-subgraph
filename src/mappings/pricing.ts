@@ -5,7 +5,7 @@ import { ZERO_BD, factoryContract, ADDRESS_ZERO, ONE_BD } from './helpers'
 
 const WBNB_ADDRESS = '0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c'
 const BUSD_WBNB_PAIR = '0x6af4c4433474b2f8ba385ad62b23299c82846783' // created block 7173211
-const DAI_WBNB_PAIR = '0xf3010261b58b2874639ca2e860e9005e3be5de0b'  // created block 481116
+const DAI_WBNB_PAIR = '0x9938f3f25d2a4c8d38b829be9fd5f9554c3c900d'  // created block 7183251
 const USDT_WBNB_PAIR = '0x20bcc3b8a0091ddac2d0bc30f68e6cbb97de59cd' // created block 648115
 
 export function getEthPriceInUSD(): BigDecimal {
