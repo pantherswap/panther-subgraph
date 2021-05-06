@@ -52,6 +52,8 @@ let WHITELIST: string[] = [
   '0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c', // BTCB
   '0x2170ed0880ac9a755fd29b2688956bd959f933f8', // WETH
   '0x250632378e573c6be1ac2f97fcdf00515d0aa91b', // BETH
+  '0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82', // CAKE
+  '0x1f546aD641B56b86fD9dCEAc473d1C7a357276B7', // PANTHER
 ]
 
 // minimum liquidity for price to get tracked
